@@ -220,6 +220,7 @@ Your code calculates:
 which is actually the **Curved Surface Area (CSA)** of a cylinder.
 
 👉 Full Total Surface Area formula is:
+
 TSA = 2\pi r(h+r)
 
 ---
