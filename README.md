@@ -125,7 +125,6 @@ class Inh3:
         c.surface_area()
 
 
-# Calling main method
 Inh3.main()
 ```
 
