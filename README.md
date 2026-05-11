@@ -237,3 +237,5 @@ TSA = 2\pi r(h+r)
 ## 📄 License
 
 This project is open-source and free to use.
+
+<img width="655" height="806" alt="image" src="https://github.com/user-attachments/assets/06de302b-0f5e-49d6-82dd-60062686efb1" />
