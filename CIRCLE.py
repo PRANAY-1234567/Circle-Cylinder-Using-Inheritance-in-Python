@@ -32,7 +32,6 @@ class Cylinder(Circle):   # Inheriting Circle class
         sa = 2 * math.pi * self.rad * self.ht
         print("Surface area :", sa)
 
-
 class Inh3:
     @staticmethod
     def main():
