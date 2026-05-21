@@ -37,7 +37,6 @@ class Inh3:
     @staticmethod
     def main():
         c = Cylinder()
-
         c.input_radius()
         c.input_height()
 
